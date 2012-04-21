@@ -1,0 +1,1 @@
+﻿package com.hexluv.gui.scrollbar.options {		import flash.display.*;		public class Alpha extends MovieClip {				public function Alpha($do:DisplayObject, $a:Number):void {						$do.alpha = $a;					}	}	}

@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PATTERNS>
+	<PATTERN>
+		<NAME>Чеширский кот</NAME>
+		<PICTURE>img/cheshire-cat.png</PICTURE>
+		<DATA xMax="5" yMax="5" >
+			<POINT x="1" y="0" />
+			<POINT x="4" y="0" />
+			<POINT x="1" y="1" />
+			<POINT x="2" y="1" />
+			<POINT x="3" y="1" />
+			<POINT x="4" y="1" />
+			<POINT x="0" y="2" />
+			<POINT x="5" y="2" />
+			<POINT x="0" y="3" />
+			<POINT x="2" y="3" />
+			<POINT x="3" y="3" />
+			<POINT x="5" y="3" />
+			<POINT x="0" y="4" />
+			<POINT x="5" y="4" />
+			<POINT x="1" y="5" />
+			<POINT x="2" y="5" />
+			<POINT x="3" y="5" />
+			<POINT x="4" y="5" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Часы II</NAME>
+		<PICTURE>img/clock-2.png</PICTURE>
+		<DATA xMax="11" yMax="11" >
+			<POINT x="6" y="0" />
+			<POINT x="7" y="0" />
+			<POINT x="6" y="1" />
+			<POINT x="7" y="1" />
+			<POINT x="4" y="3" />
+			<POINT x="5" y="3" />
+			<POINT x="6" y="3" />
+			<POINT x="7" y="3" />
+			<POINT x="0" y="4" />
+			<POINT x="1" y="4" />
+			<POINT x="3" y="4" />
+			<POINT x="8" y="4" />
+			<POINT x="0" y="5" />
+			<POINT x="1" y="5" />
+			<POINT x="3" y="5" />
+			<POINT x="6" y="5" />
+			<POINT x="8" y="5" />
+			<POINT x="3" y="6" />
+			<POINT x="6" y="6" />
+			<POINT x="8" y="6" />
+			<POINT x="10" y="6" />
+			<POINT x="11" y="6" />
+			<POINT x="3" y="7" />
+			<POINT x="5" y="7" />
+			<POINT x="8" y="7" />
+			<POINT x="10" y="7" />
+			<POINT x="11" y="7" />
+			<POINT x="4" y="8" />
+			<POINT x="5" y="8" />
+			<POINT x="6" y="8" />
+			<POINT x="7" y="8" />
+			<POINT x="4" y="10" />
+			<POINT x="5" y="10" />
+			<POINT x="4" y="11" />
+			<POINT x="5" y="11" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Дротик</NAME>
+		<PICTURE>img/dart.png</PICTURE>
+		<DATA xMax="9" yMax="14" >
+			<POINT x="8" y="0" />
+			<POINT x="7" y="1" />
+			<POINT x="9" y="1" />
+			<POINT x="6" y="2" />
+			<POINT x="7" y="2" />
+			<POINT x="9" y="3" />
+			<POINT x="5" y="4" />
+			<POINT x="9" y="4" />
+			<POINT x="2" y="5" />
+			<POINT x="5" y="5" />
+			<POINT x="1" y="6" />
+			<POINT x="3" y="6" />
+			<POINT x="6" y="6" />
+			<POINT x="7" y="6" />
+			<POINT x="8" y="6" />
+			<POINT x="9" y="6" />
+			<POINT x="0" y="7" />
+			<POINT x="3" y="7" />
+			<POINT x="1" y="8" />
+			<POINT x="3" y="8" />
+			<POINT x="6" y="8" />
+			<POINT x="7" y="8" />
+			<POINT x="8" y="8" />
+			<POINT x="9" y="8" />
+			<POINT x="2" y="9" />
+			<POINT x="5" y="9" />
+			<POINT x="5" y="10" />
+			<POINT x="9" y="10" />
+			<POINT x="9" y="11" />
+			<POINT x="6" y="12" />
+			<POINT x="7" y="12" />
+			<POINT x="7" y="13" />
+			<POINT x="9" y="13" />
+			<POINT x="8" y="14" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Брилиант 4</NAME>
+		<PICTURE>img/diamond-4.png</PICTURE>
+		<DATA xMax="11" yMax="8" >
+			<POINT x="4" y="0" />
+			<POINT x="5" y="0" />
+			<POINT x="6" y="0" />
+			<POINT x="7" y="0" />
+			<POINT x="2" y="2" />
+			<POINT x="3" y="2" />
+			<POINT x="4" y="2" />
+			<POINT x="5" y="2" />
+			<POINT x="6" y="2" />
+			<POINT x="7" y="2" />
+			<POINT x="8" y="2" />
+			<POINT x="9" y="2" />
+			<POINT x="0" y="4" />
+			<POINT x="1" y="4" />
+			<POINT x="2" y="4" />
+			<POINT x="3" y="4" />
+			<POINT x="4" y="4" />
+			<POINT x="5" y="4" />
+			<POINT x="6" y="4" />
+			<POINT x="7" y="4" />
+			<POINT x="8" y="4" />
+			<POINT x="9" y="4" />
+			<POINT x="10" y="4" />
+			<POINT x="11" y="4" />
+			<POINT x="2" y="6" />
+			<POINT x="3" y="6" />
+			<POINT x="4" y="6" />
+			<POINT x="5" y="6" />
+			<POINT x="6" y="6" />
+			<POINT x="7" y="6" />
+			<POINT x="8" y="6" />
+			<POINT x="9" y="6" />
+			<POINT x="4" y="8" />
+			<POINT x="5" y="8" />
+			<POINT x="6" y="8" />
+			<POINT x="7" y="8" />
+		</DATA>
+	</PATTERN>
+		<PATTERN>
+		<NAME>Брилиантовое кольцо</NAME>
+		<PICTURE>img/diamond-ring.png</PICTURE>
+		<DATA xMax="12" yMax="12" >
+			<POINT x="6" y="0" />
+			<POINT x="5" y="1" />
+			<POINT x="7" y="1" />
+			<POINT x="4" y="2" />
+			<POINT x="6" y="2" />
+			<POINT x="8" y="2" />
+			<POINT x="4" y="3" />
+			<POINT x="8" y="3" />
+			<POINT x="2" y="4" />
+			<POINT x="3" y="4" />
+			<POINT x="6" y="4" />
+			<POINT x="9" y="4" />
+			<POINT x="10" y="4" />
+			<POINT x="1" y="5" />
+			<POINT x="6" y="5" />
+			<POINT x="11" y="5" />
+			<POINT x="0" y="6" />
+			<POINT x="2" y="6" />
+			<POINT x="4" y="6" />
+			<POINT x="5" y="6" />
+			<POINT x="7" y="6" />
+			<POINT x="8" y="6" />
+			<POINT x="10" y="6" />
+			<POINT x="12" y="6" />
+			<POINT x="1" y="7" />
+			<POINT x="6" y="7" />
+			<POINT x="11" y="7" />
+			<POINT x="2" y="8" />
+			<POINT x="3" y="8" />
+			<POINT x="6" y="8" />
+			<POINT x="9" y="8" />
+			<POINT x="10" y="8" />
+			<POINT x="4" y="9" />
+			<POINT x="8" y="9" />
+			<POINT x="4" y="10" />
+			<POINT x="6" y="10" />
+			<POINT x="8" y="10" />
+			<POINT x="5" y="11" />
+			<POINT x="7" y="11" />
+			<POINT x="6" y="12" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Обеденный стол</NAME>
+		<PICTURE>img/dinner-table.png</PICTURE>
+		<DATA xMax="12" yMax="12" >
+			<POINT x="1" y="0" />
+			<POINT x="1" y="1" />
+			<POINT x="2" y="1" />
+			<POINT x="3" y="1" />
+			<POINT x="11" y="1" />
+			<POINT x="12" y="1" />
+			<POINT x="4" y="2" />
+			<POINT x="11" y="2" />
+			<POINT x="3" y="3" />
+			<POINT x="4" y="3" />
+			<POINT x="9" y="3" />
+			<POINT x="11" y="3" />
+			<POINT x="9" y="4" />
+			<POINT x="10" y="4" />
+			<POINT x="5" y="6" />
+			<POINT x="6" y="6" />
+			<POINT x="7" y="6" />
+			<POINT x="5" y="7" />
+			<POINT x="6" y="7" />
+			<POINT x="7" y="7" />
+			<POINT x="2" y="8" />
+			<POINT x="3" y="8" />
+			<POINT x="1" y="9" />
+			<POINT x="3" y="9" />
+			<POINT x="8" y="9" />
+			<POINT x="9" y="9" />
+			<POINT x="1" y="10" />
+			<POINT x="8" y="10" />
+			<POINT x="0" y="11" />
+			<POINT x="1" y="11" />
+			<POINT x="9" y="11" />
+			<POINT x="10" y="11" />
+			<POINT x="11" y="11" />
+			<POINT x="11" y="12" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Восьмерка</NAME>
+		<PICTURE>img/figure-8.png</PICTURE>
+		<DATA xMax="5" yMax="5" >
+			<POINT x="0" y="0" />
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="0" y="1" />
+			<POINT x="1" y="1" />
+			<POINT x="2" y="1" />
+			<POINT x="0" y="2" />
+			<POINT x="1" y="2" />
+			<POINT x="2" y="2" />
+			<POINT x="3" y="3" />
+			<POINT x="4" y="3" />
+			<POINT x="5" y="3" />
+			<POINT x="3" y="4" />
+			<POINT x="4" y="4" />
+			<POINT x="5" y="4" />
+			<POINT x="3" y="5" />
+			<POINT x="4" y="5" />
+			<POINT x="5" y="5" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Глайдер</NAME>
+		<PICTURE>img/glider.png</PICTURE>
+		<DATA xMax="2" yMax="2" >
+			<POINT x="2" y="0" />
+			<POINT x="0" y="1" />
+			<POINT x="2" y="1" />
+			<POINT x="1" y="2" />
+			<POINT x="2" y="2" />
+		</DATA>
+	</PATTERN>
+		<PATTERN>
+		<NAME>Галактика Кока</NAME>
+		<PICTURE>img/koks-galaxy.png</PICTURE>
+		<DATA xMax="8" yMax="8" >
+			<POINT x="0" y="0" />
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="3" y="0" />
+			<POINT x="4" y="0" />
+			<POINT x="5" y="0" />
+			<POINT x="7" y="0" />
+			<POINT x="8" y="0" />
+			<POINT x="0" y="1" />
+			<POINT x="1" y="1" />
+			<POINT x="2" y="1" />
+			<POINT x="3" y="1" />
+			<POINT x="4" y="1" />
+			<POINT x="5" y="1" />
+			<POINT x="7" y="1" />
+			<POINT x="8" y="1" />
+			<POINT x="7" y="2" />
+			<POINT x="8" y="2" />
+			<POINT x="0" y="3" />
+			<POINT x="1" y="3" />
+			<POINT x="7" y="3" />
+			<POINT x="8" y="3" />
+			<POINT x="0" y="4" />
+			<POINT x="1" y="4" />
+			<POINT x="7" y="4" />
+			<POINT x="8" y="4" />
+			<POINT x="0" y="5" />
+			<POINT x="1" y="5" />
+			<POINT x="7" y="5" />
+			<POINT x="8" y="5" />
+			<POINT x="0" y="6" />
+			<POINT x="1" y="6" />
+			<POINT x="0" y="7" />
+			<POINT x="1" y="7" />
+			<POINT x="3" y="7" />
+			<POINT x="4" y="7" />
+			<POINT x="5" y="7" />
+			<POINT x="6" y="7" />
+			<POINT x="7" y="7" />
+			<POINT x="8" y="7" />
+			<POINT x="0" y="8" />
+			<POINT x="1" y="8" />
+			<POINT x="3" y="8" />
+			<POINT x="4" y="8" />
+			<POINT x="5" y="8" />
+			<POINT x="6" y="8" />
+			<POINT x="7" y="8" />
+			<POINT x="8" y="8" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Монограмма</NAME>
+		<PICTURE>img/monogram.png</PICTURE>
+		<DATA xMax="6" yMax="4" >
+			<POINT x="0" y="0" />
+			<POINT x="1" y="0" />
+			<POINT x="5" y="0" />
+			<POINT x="6" y="0" />
+			<POINT x="1" y="1" />
+			<POINT x="3" y="1" />
+			<POINT x="5" y="1" />
+			<POINT x="1" y="2" />
+			<POINT x="2" y="2" />
+			<POINT x="4" y="2" />
+			<POINT x="5" y="2" />
+			<POINT x="1" y="3" />
+			<POINT x="3" y="3" />
+			<POINT x="5" y="3" />
+			<POINT x="0" y="4" />
+			<POINT x="1" y="4" />
+			<POINT x="5" y="4" />
+			<POINT x="6" y="4" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Луковые кольца</NAME>
+		<PICTURE>img/onion-rings.png</PICTURE>
+		<DATA xMax="11" yMax="11" >
+			<POINT x="6" y="0" />
+			<POINT x="7" y="0" />
+			<POINT x="8" y="0" />
+			<POINT x="9" y="0" />
+			<POINT x="10" y="0" />
+			<POINT x="11" y="0" />
+			<POINT x="1" y="1" />
+			<POINT x="2" y="1" />
+			<POINT x="3" y="1" />
+			<POINT x="4" y="1" />
+			<POINT x="6" y="1" />
+			<POINT x="11" y="1" />
+			<POINT x="1" y="2" />
+			<POINT x="4" y="2" />
+			<POINT x="6" y="2" />
+			<POINT x="8" y="2" />
+			<POINT x="9" y="2" />
+			<POINT x="11" y="2" />
+			<POINT x="1" y="3" />
+			<POINT x="4" y="3" />
+			<POINT x="6" y="3" />
+			<POINT x="8" y="3" />
+			<POINT x="9" y="3" />
+			<POINT x="11" y="3" />
+			<POINT x="1" y="4" />
+			<POINT x="2" y="4" />
+			<POINT x="3" y="4" />
+			<POINT x="4" y="4" />
+			<POINT x="6" y="4" />
+			<POINT x="11" y="4" />
+			<POINT x="6" y="5" />
+			<POINT x="7" y="5" />
+			<POINT x="8" y="5" />
+			<POINT x="9" y="5" />
+			<POINT x="10" y="5" />
+			<POINT x="11" y="5" />
+			<POINT x="0" y="6" />
+			<POINT x="1" y="6" />
+			<POINT x="2" y="6" />
+			<POINT x="3" y="6" />
+			<POINT x="4" y="6" />
+			<POINT x="5" y="6" />
+			<POINT x=" 0" y="7" />
+			<POINT x="5" y="7" />
+			<POINT x="7" y="7" />
+			<POINT x="8" y="7" />
+			<POINT x="9" y="7" />
+			<POINT x="10" y="7" />
+			<POINT x="0" y="8" />
+			<POINT x="2" y="8" />
+			<POINT x="3" y="8" />
+			<POINT x="5" y="8" />
+			<POINT x="7" y="8" />
+			<POINT x="10" y="8" />
+			<POINT x="0" y="9" />
+			<POINT x="2" y="9" />
+			<POINT x="3" y="9" />
+			<POINT x="5" y="9" />
+			<POINT x="7" y="9" />
+			<POINT x="10" y="9" />
+			<POINT x="0" y="10" />
+			<POINT x="5" y="10" />
+			<POINT x="7" y="10" />
+			<POINT x="8" y="10" />
+			<POINT x="9" y="10" />
+			<POINT x="10" y="10" />
+			<POINT x="0" y="11" />
+			<POINT x="1" y="11" />
+			<POINT x="2" y="11" />
+			<POINT x="3" y="11" />
+			<POINT x="4" y="11" />
+			<POINT x="5" y="11" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>О-пентамино</NAME>
+		<PICTURE>img/o-pentomino.png</PICTURE>
+		<DATA xMax="4" yMax="0" >
+			<POINT x="0" y="0" />
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="3" y="0" />
+			<POINT x="4" y="0" />
+		</DATA>
+	</PATTERN>
+		<PATTERN>
+		<NAME>Пентадекатлон</NAME>
+		<PICTURE>img/pentadecathlon.png</PICTURE>
+		<DATA xMax="9" yMax="2" >
+			<POINT x="2" y="0" />
+			<POINT x="7" y="0" />
+			<POINT x="0" y="1" />
+			<POINT x="1" y="1" />
+			<POINT x="3" y="1" />
+			<POINT x="4" y="1" />
+			<POINT x="5" y="1" />
+			<POINT x="6" y="1" />
+			<POINT x="8" y="1" />
+			<POINT x="9" y="1" />
+			<POINT x="2" y="2" />
+			<POINT x="7" y="2" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Феникс</NAME>
+		<PICTURE>img/phoenix.png</PICTURE>
+		<DATA xMax="7" yMax="7" >
+			<POINT x="3" y="0" />
+			<POINT x="3" y="1" />
+			<POINT x="5" y="1" />
+			<POINT x="1" y="2" />
+			<POINT x="6" y="3" />
+			<POINT x="7" y="3" />
+			<POINT x="0" y="4" />
+			<POINT x="1" y="4" />
+			<POINT x="6" y="5" />
+			<POINT x="2" y="6" />
+			<POINT x="4" y="6" />
+			<POINT x="4" y="7" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Пи-гептамино</NAME>
+		<PICTURE>img/pi-heptomino.png</PICTURE>
+		<DATA xMax="2" yMax="2" >
+			<POINT x="0" y="0" />
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="0" y="1" />
+			<POINT x="2" y="1" />
+			<POINT x="0" y="2" />
+			<POINT x="2" y="2" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Пульсар</NAME>
+		<PICTURE>img/pulsar.png</PICTURE>
+		<DATA xMax="12" yMax="12" >
+			<POINT x="2" y="0" />
+			<POINT x="3" y="0" />
+			<POINT x="4" y="0" />
+			<POINT x="8" y="0" />
+			<POINT x="9" y="0" />
+			<POINT x="10" y="0" />
+			<POINT x="0" y="2" />
+			<POINT x="5" y="2" />
+			<POINT x="7" y="2" />
+			<POINT x="12" y="2" />
+			<POINT x="0" y="3" />
+			<POINT x="5" y="3" />
+			<POINT x="7" y="3" />
+			<POINT x="12" y="3" />
+			<POINT x="0" y="4" />
+			<POINT x="5" y="4" />
+			<POINT x="7" y="4" />
+			<POINT x="12" y="4" />
+			<POINT x="2" y="5" />
+			<POINT x="3" y="5" />
+			<POINT x="4" y="5" />
+			<POINT x="8" y="5" />
+			<POINT x="9" y="5" />
+			<POINT x="10" y="5" />
+			<POINT x="2" y="7" />
+			<POINT x="3" y="7" />
+			<POINT x="4" y="7" />
+			<POINT x="8" y="7" />
+			<POINT x="9" y="7" />
+			<POINT x="10" y="7" />
+			<POINT x="0" y="8" />
+			<POINT x="5" y="8" />
+			<POINT x="7" y="8" />
+			<POINT x="12" y="8" />
+			<POINT x="0" y="9" />
+			<POINT x="5" y="9" />
+			<POINT x="7" y="9" />
+			<POINT x="12" y="9" />
+			<POINT x="0" y="10" />
+			<POINT x="5" y="10" />
+			<POINT x="7" y="10" />
+			<POINT x="12" y="10" />
+			<POINT x="2" y="12" />
+			<POINT x="3" y="12" />
+			<POINT x="4" y="12" />
+			<POINT x="8" y="12" />
+			<POINT x="9" y="12" />
+			<POINT x="10" y="12" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Квадратная перина</NAME>
+		<PICTURE>img/quilt-square.png</PICTURE>
+		<DATA xMax="17" yMax="17" >
+			<POINT x="4" y="0" />
+			<POINT x="5" y="0" />
+			<POINT x="12" y="0" />
+			<POINT x="13" y="0" />
+			<POINT x="3" y="1" />
+			<POINT x="6" y="1" />
+			<POINT x="11" y="1" />
+			<POINT x="14" y="1" />
+			<POINT x="3" y="2" />
+			<POINT x="5" y="2" />
+			<POINT x="7" y="2" />
+			<POINT x="10" y="2" />
+			<POINT x="12" y="2" />
+			<POINT x="14" y="2" />
+			<POINT x="1" y="3" />
+			<POINT x="2" y="3" />
+			<POINT x="5" y="3" />
+			<POINT x="7" y="3" />
+			<POINT x="8" y="3" />
+			<POINT x="9" y="3" />
+			<POINT x="10" y="3" />
+			<POINT x="12" y="3" />
+			<POINT x="15" y="3" />
+			<POINT x="16" y="3" />
+			<POINT x="0" y="4" />
+			<POINT x="6" y="4" />
+			<POINT x="11" y="4" />
+			<POINT x="17" y="4" />
+			<POINT x="0" y="5" />
+			<POINT x="2" y="5" />
+			<POINT x="3" y="5" />
+			<POINT x="14" y="5" />
+			<POINT x="15" y="5" />
+			<POINT x="17" y="5" />
+			<POINT x="1" y="6" />
+			<POINT x="4" y="6" />
+			<POINT x="13" y="6" />
+			<POINT x="16" y="6" />
+			<POINT x="2" y="7" />
+			<POINT x="3" y="7" />
+			<POINT x="14" y="7" />
+			<POINT x="15" y="7" />
+			<POINT x="3" y="8" />
+			<POINT x="14" y="8" />
+			<POINT x="3" y="9" />
+			<POINT x="14" y="9" />
+			<POINT x="2" y="10" />
+			<POINT x="3" y="10" />
+			<POINT x="14" y="10" />
+			<POINT x="15" y="10" />
+			<POINT x="1" y="11" />
+			<POINT x="4" y="11" />
+			<POINT x="13" y="11" />
+			<POINT x="16" y="11" />
+			<POINT x="0" y="12" />
+			<POINT x="2" y="12" />
+			<POINT x="3" y="12" />
+			<POINT x="14" y="12" />
+			<POINT x="15" y="12" />
+			<POINT x="17" y="12" />
+			<POINT x="0" y="13" />
+			<POINT x="6" y="13" />
+			<POINT x="11" y="13" />
+			<POINT x="17" y="13" />
+			<POINT x="1" y="14" />
+			<POINT x="2" y="14" />
+			<POINT x="5" y="14" />
+			<POINT x="7" y="14" />
+			<POINT x="8" y="14" />
+			<POINT x="9" y="14" />
+			<POINT x="10" y="14" />
+			<POINT x="12" y="14" />
+			<POINT x="15" y="14" />
+			<POINT x="16" y="14" />
+			<POINT x="3" y="15" />
+			<POINT x="5" y="15" />
+			<POINT x="7" y="15" />
+			<POINT x="10" y="15" />
+			<POINT x="12" y="15" />
+			<POINT x="14" y="15" />
+			<POINT x="3" y="16" />
+			<POINT x="6" y="16" />
+			<POINT x="11" y="16" />
+			<POINT x="14" y="16" />
+			<POINT x="4" y="17" />
+			<POINT x="5" y="17" />
+			<POINT x="12" y="17" />
+			<POINT x="13" y="17" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Кривой двор</NAME>
+		<PICTURE>img/skewed-quad.png</PICTURE>
+		<DATA xMax="6" yMax="6" >
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="1" y="1" />
+			<POINT x="5" y="1" />
+			<POINT x="6" y="1" />
+			<POINT x="2" y="2" />
+			<POINT x="4" y="2" />
+			<POINT x="6" y="2" />
+			<POINT x="0" y="4" />
+			<POINT x="2" y="4" />
+			<POINT x="4" y="4" />
+			<POINT x="0" y="5" />
+			<POINT x="1" y="5" />
+			<POINT x="5" y="5" />
+			<POINT x="4" y="6" />
+			<POINT x="5" y="6" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Ступенчатое гексамино</NAME>
+		<PICTURE>img/stairstep-hexomino.png</PICTURE>
+		<DATA xMax="3" yMax="2" >
+			<POINT x="2" y="0" />
+			<POINT x="3" y="0" />
+			<POINT x="1" y="1" />
+			<POINT x="2" y="1" />
+			<POINT x="0" y="2" />
+			<POINT x="1" y="2" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Стол</NAME>
+		<PICTURE>img/table.png</PICTURE>
+		<DATA xMax="3" yMax="1" >
+			<POINT x="0" y="0" />
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="3" y="0" />
+			<POINT x="0" y="1" />
+			<POINT x="3" y="1" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Дрозд</NAME>
+		<PICTURE>img/thunderbird.png</PICTURE>
+		<DATA xMax="2" yMax="4" >
+			<POINT x="0" y="0" />
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="1" y="2" />
+			<POINT x="1" y="3" />
+			<POINT x="1" y="4" />
+		</DATA>
+	</PATTERN>
+		<PATTERN>
+		<NAME>Светофор</NAME>
+		<PICTURE>img/traffic-light.png</PICTURE>
+		<DATA xMax="8" yMax="8" >
+			<POINT x="4" y="0" />
+			<POINT x="4" y="1" />
+			<POINT x="4" y="2" />
+			<POINT x="0" y="4" />
+			<POINT x="1" y="4" />
+			<POINT x="2" y="4" />
+			<POINT x="6" y="4" />
+			<POINT x="7" y="4" />
+			<POINT x="8" y="4" />
+			<POINT x="4" y="6" />
+			<POINT x="4" y="7" />
+			<POINT x="4" y="8" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>T-тетрамино</NAME>
+		<PICTURE>img/t-tetromino.png</PICTURE>
+		<DATA xMax="2" yMax="1" >
+			<POINT x="0" y="0" />
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="1" y="1" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Тумблер</NAME>
+		<PICTURE>img/tumbler.png</PICTURE>
+		<DATA xMax="6" yMax="5" >
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="4" y="0" />
+			<POINT x="5" y="0" />
+			<POINT x="1" y="1" />
+			<POINT x="2" y="1" />
+			<POINT x="4" y="1" />
+			<POINT x="5" y="1" />
+			<POINT x="2" y="2" />
+			<POINT x="4" y="2" />
+			<POINT x="0" y="3" />
+			<POINT x="2" y="3" />
+			<POINT x="4" y="3" />
+			<POINT x="6" y="3" />
+			<POINT x="0" y="4" />
+			<POINT x="2" y="4" />
+			<POINT x="4" y="4" />
+			<POINT x="6" y="4" />
+			<POINT x="0" y="5" />
+			<POINT x="1" y="5" />
+			<POINT x="5" y="5" />
+			<POINT x="6" y="5" />
+		</DATA>
+	</PATTERN>
+	<PATTERN>
+		<NAME>Зет</NAME>
+		<PICTURE>img/zet.png</PICTURE>
+		<DATA xMax="4" yMax="4" >
+			<POINT x="0" y="0" />
+			<POINT x="1" y="0" />
+			<POINT x="2" y="0" />
+			<POINT x="3" y="0" />
+			<POINT x="4" y="0" />
+			<POINT x="3" y="1" />
+			<POINT x="2" y="2" />
+			<POINT x="1" y="3" />
+			<POINT x="0" y="4" />
+			<POINT x="1" y="4" />
+			<POINT x="2" y="4" />
+			<POINT x="3" y="4" />
+			<POINT x="4" y="4" />
+		</DATA>
+	</PATTERN>
+</PATTERNS>
